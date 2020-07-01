@@ -1,0 +1,48 @@
+body {
+      margin-bottom: 40px;
+      font-family: Verdana;
+      line-height: 1.2;
+      color: #1B2631;
+      text-align: left;
+      background-color: #f7dc6f;
+  }
+  
+h1 {
+    color: #1B2631;
+    text-align: center;
+    background-color:  #922b21;
+  }
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: #2c3e50;
+  }
+#contact {
+    width: 90%;
+    border: 30px #F5b041;
+    padding: 50px;
+    margin: 20px;
+  }
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 40%;
+  }
+  
+nav {
+  color: #Fef9e7;
+  background-color:  #922b21;
+  font-weight: bold;
+}
+
+// Color Scheme for Brianne's Portfolio Site
+// HEX
+//  Dark Slate #1b2631
+// Dark Blue #2c3e50
+// Off-white Cream #fef9e7
+// Soft Yellow Golden #f7dc6f
+// Orange #f39c12
+// Dark Burgundy Red #922b21
