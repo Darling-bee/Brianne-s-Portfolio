@@ -4,17 +4,17 @@ body {
       line-height: 1.2;
       color: #1B2631;
       text-align: left;
-      background-color: #f7dc6f;
+      background-color: lightslategray;
   }
   
 h1 {
     color: #1B2631;
-    text-align: center;
-    background-color:  #922b21;
+    font: calibri; 
+    text-align: left;
   }
   
 p {
-    font-family: verdana;
+    font-family: Calibri;
     font-size: 20px;
     color: #2c3e50;
   }
@@ -29,12 +29,15 @@ img {
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 5px;
-    width: 40%;
   }
   
+.headshot {
+  size: 
+}
+
 nav {
   color: #Fef9e7;
-  background-color:  #922b21;
+  background-color: #1B2631;
   font-weight: bold;
 }
 
@@ -43,6 +46,4 @@ nav {
 //  Dark Slate #1b2631
 // Dark Blue #2c3e50
 // Off-white Cream #fef9e7
-// Soft Yellow Golden #f7dc6f
-// Orange #f39c12
 // Dark Burgundy Red #922b21
